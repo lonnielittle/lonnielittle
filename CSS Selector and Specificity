@@ -1,0 +1,34 @@
+body {
+  font-family: 'Sans Source Pro', sans-serif; 
+  margin: 1rem;
+}
+body {
+  font-family: 'Sans Source Pro', sans-serif; 
+}
+
+table {
+    margin: auto;
+}
+
+th {
+    background: lightblue;
+    border: 1px solid;
+    padding: 6px;
+    width: 100px;
+}
+
+td {
+    background: khaki;
+    text-align: center;
+    border: 1px solid;
+    padding: 6px;
+    width: 100px;
+}
+
+th[colspan="3"] { 
+    background-color: violet;
+}
+
+thead th {
+    background-color: palegreen;
+}
